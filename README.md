@@ -1,3 +1,3 @@
 # xfinaty.github.io
 
-#https://discord.gg/smFKEkTvYM
+https://discord.gg/smFKEkTvYM
