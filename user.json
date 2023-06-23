@@ -1,7 +1,15 @@
 {
-  "users": [
-    "1",
-    "2",
-    "3"
-  ]
+	"accounts": [{
+			"id": "",
+			"status": "true"
+		},
+		{
+			"id": "",
+			"status": "true"
+		},
+		{
+			"id": "",
+			"status": "true"
+		}
+	]
 }
